@@ -7,7 +7,7 @@ discussion.
 The aim of this repository is to create a sandbox where we can create a prioritized roadmap of
 features that are well-scoped, defined, and then prioritized.
 
-To create a new feature, file an isssue. We will be creating a template for this in the near 
+To create a new feature, file an issue. We will be creating a template for this in the near 
 future, so you can be sure to mention everything we need.
 
 Feature prioritization takes place on a [Github Project board][p].
