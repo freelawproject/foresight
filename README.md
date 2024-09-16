@@ -7,9 +7,8 @@ discussion.
 The aim of this repository is to create a sandbox where we can create a prioritized roadmap of
 features that are well-scoped, defined, and then prioritized.
 
-To create a new feature, file an issue. We will be creating a template for this in the near 
-future, so you can be sure to mention everything we need.
+To share ideas for new or enhanced features, add them to our Github [Ideas Discussion](https://github.com/freelawproject/feature-foresight/discussions/categories/ideas). Those ideas may be added to the roadmap in the future.
 
-Feature prioritization takes place on a [Github Project board][p].
+FLP staff with well-defined feature requests can add them to the [Github Project board](https://github.com/orgs/freelawproject/projects/59/views/1). There will soon be an issue template that specifies what details to include. If you do not have enough information to fill in the template, we encourage you to share the feature in the Ideas Discussion.
 
-[p]: https://github.com/orgs/freelawproject/projects/59/views/1
+Feature prioritization takes place on the Github Project board.
