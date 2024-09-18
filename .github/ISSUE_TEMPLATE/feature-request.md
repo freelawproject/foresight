@@ -1,18 +1,29 @@
+---
+name: Roadmap Proposal
+about: Use this issue to write up a formal proposal for the organization. This should be used by FLP staff only.
+title: "[New Feature | Enhancement]: Make the sky bluer"
+
+---
+
+
 ### **Using this Template**
 
 This template should be used by **FLP staff only** to add requests for new or enhanced features.
 
-**If you are not FLP staff**, but have a feature idea, we encourage you to share it to our Ideas Discussion (add link) in Github. Those ideas may be added to the roadmap in the future.
+**If you are not FLP staff**, but have a feature idea, we encourage you to share it to our [Ideas Discussion][idea]. Once the idea has been discussed, it can be added to the roadmap by FLP staff.
 
 Similarly, if you are FLP staff, but **do not have enough information to complete this template**, consider adding your feature idea to the Ideas Discussion.
+
+[idea]: https://github.com/freelawproject/foresight/discussions/new?category=ideas
+
 ___
-### Feature Request Template:
+### Feature Request Template
 
 Please include the following information in your feature request:
 
 **Headline**
 
-- Once this feature is live, what would an ideal headline be? What would we want to announce?
+- Once this feature is live, what would an ideal headline be for a press release? What would we want to announce?
 
 **What is the Feature?**
 
@@ -33,7 +44,7 @@ Please include the following information in your feature request:
 - **IMPORTANT: don't include the names of individuals or companies** who requested the feature. However, if there are notes in the crm, you can link to them.
 
 ____
-### Example:
+### Example
 
 **Headline**
 
