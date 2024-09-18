@@ -1,4 +1,4 @@
-# Feature Foresight
+# Foresight
 
 Historically, we have created issues in CourtListener whenever we were considering new features. 
 That's fine, but it mixes up features with work and does not encourage feature design and 
