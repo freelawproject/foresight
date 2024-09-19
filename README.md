@@ -4,11 +4,14 @@ Historically, we have created issues in CourtListener whenever we were consideri
 That's fine, but it mixes up features with work and does not encourage feature design and 
 discussion. 
 
-The aim of this repository is to create a sandbox where we can create a prioritized roadmap of
-features that are well-scoped, defined, and then prioritized.
+The aim of this repository is to generate discussion so that we can have a prioritized roadmap of features that are well-scoped, defined, and prioritized.
 
-To share ideas for new or enhanced features, add them to our Github [Ideas Discussion](https://github.com/freelawproject/feature-foresight/discussions/categories/ideas). Those ideas may be added to the roadmap in the future.
+Prioritization can be seen on the roadmap kanban:
 
-FLP staff with well-defined feature requests can add them to the [Github Project board](https://github.com/orgs/freelawproject/projects/59/views/1). There will soon be an issue template that specifies what details to include. If you do not have enough information to fill in the template, we encourage you to share the feature in the Ideas Discussion.
+https://github.com/orgs/freelawproject/projects/59/views/1
 
-Feature prioritization takes place on the Github Project board.
+If you are a member of the public, you can make suggestions via a new [Idea Discussion](https://github.com/freelawproject/feature-foresight/discussions/categories/ideas). Those ideas may be added to the roadmap in the future.
+
+If you are an FLP staff member with a well-defined idea, use [this template][t] to add an issue to this repo. If you do not have enough information to fill in the template, we encourage you to share the feature in the Ideas Discussion.
+
+[t]: https://github.com/freelawproject/foresight/issues/new?assignees=&labels=&projects=&template=feature-request.md&title=%5BNew+Feature+%7C+Enhancement%5D%3A+Make+the+sky+bluer
