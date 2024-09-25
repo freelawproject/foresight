@@ -1,7 +1,7 @@
 ---
 name: Roadmap Proposal
 about: Use this issue to write up a formal proposal for the organization. This should be used by FLP staff only.
-title: "[New Feature | Enhancement]: Make the sky bluer"
+title: "[New System | New Feature | Enhancement]: Make the sky bluer"
 
 ---
 
